@@ -1,6 +1,11 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1500&deleteSpeed=1000&color=F75C7E&width=450&center=true&lines=Hello%2C+World!;你好%EF%BC%8C世界%EF%BC%81;こんにちは%E3%80%81世界%EF%BC%81;안녕하세요%2C+세계!;Bonjour+tout+le+monde+!;Hallo%2C+Welt!;%C2%A1Hola%2C+Mundo!;Привет%2C+мир!;Saluton%2C+Mondo!)
+
+
 
 <!--
+## Hi there 👋
+
+
 **hoiyuyiu/hoiyuyiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
